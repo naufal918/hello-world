@@ -1,2 +1,6 @@
 # hello-world
-another repository
+
+Hi people!
+
+im beginer programmer,i like python 
+i love formula 1
